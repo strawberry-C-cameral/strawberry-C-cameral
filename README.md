@@ -13,4 +13,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+I'm strawberry(* V *)🫧
+
+Current activities include:
+
+wondering how things work 🍥
+
+starting new projects 
+
+finishing old projects (rare) 🧸
+
+finding / creating new bugs 🤍
+
+and learning along the way 🩵
+
+Welcome to the chaos 
