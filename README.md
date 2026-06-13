@@ -1,6 +1,8 @@
 ## Hi~
 I'm strawberry(* V *)🫧
+
 **'q student who try to learn sth interesting during vacation'**
+
 Current activities include:
 
 wondering how things work 🍥
