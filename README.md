@@ -17,21 +17,25 @@ and learning along the way 🩵
 
 Welcome to the chaos
 
-[![strawberry's GitHub stats](https://github-readme-stats.vercel.app/api?username=strawberry-C-cameral&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![strawberry's GitHub stats](https://github-readme-stats.vercel.app/api?username=strawberry-C-cameral&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 
-##   Tech Stack:
+
+#   Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-##   GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=strawberry-C-cameral&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=strawberry-C-cameral&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=strawberry-C-cameral&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+#   GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=strawberry-C-cameral&theme=buefy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=strawberry-C-cameral&theme=buefy&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=strawberry-C-cameral&theme=buefy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-##   GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=strawberry-C-cameral&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
