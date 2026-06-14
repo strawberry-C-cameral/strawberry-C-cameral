@@ -1,7 +1,7 @@
 ## Hi~
 I'm strawberry(* V *)🫧
 
-**'A student who try to learn sth interesting during vacation'**
+**'A student trying to learn sth interesting during vacation'**
 
 Current activities include:
 
