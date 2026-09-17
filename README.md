@@ -17,7 +17,7 @@ and learning along the way 🩵
 
 Welcome to the chaos
 
-[![strawberry's GitHub stats](https://github-readme-stats.vercel.app/api?username=strawberry-C-cameral&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
